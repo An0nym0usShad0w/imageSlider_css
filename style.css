@@ -52,3 +52,7 @@ body {
 	margin-top: 10px;
 	padding: 5px;
 }
+
+#buttons :hover {
+	background-color: rgb(231, 27, 214);
+}
